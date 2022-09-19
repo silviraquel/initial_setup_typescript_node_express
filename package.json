@@ -1,0 +1,17 @@
+{
+  "name": "base_typescript_node_express_",
+  "version": "1.0.0",
+  "description": "typescript_with_node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Silvi@ne",
+  "license": "ISC",
+  "dependencies": {
+    "@types/express": "^4.17.14",
+    "@types/node": "^18.7.18",
+    "nodemon": "^2.0.20",
+    "ts-node": "^10.9.1"
+  }
+}
