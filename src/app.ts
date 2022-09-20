@@ -20,4 +20,3 @@ export class App{
     }
 }
 
- new App().server.listen(3000);
