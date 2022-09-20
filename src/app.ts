@@ -1,4 +1,4 @@
-//dependẽncias instaladas npm i @types/express @types/node ts-node typescript nodemon // the ts-node runs and compile
+//install all these packages: npm i @types/express @types/node ts-node typescript express nodemon // the ts-node runs and compile
 import express from "express";
 import { router } from "./routes";
 
