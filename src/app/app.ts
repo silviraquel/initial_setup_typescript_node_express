@@ -1,6 +1,6 @@
 //dependẽncias instaladas npm i @types/express @types/node ts-node typescript nodemon // the ts-node runs and compile
 import express from "express";
-import { router } from "./router";
+import { router } from "./routes";
 
 export class App{
     public server: express.Application;
