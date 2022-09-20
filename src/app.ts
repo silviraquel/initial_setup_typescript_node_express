@@ -19,3 +19,5 @@ export class App{
         this.server.use(router);
     }
 }
+
+ new App().server.listen(3000);
